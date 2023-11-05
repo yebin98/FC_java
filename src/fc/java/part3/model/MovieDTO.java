@@ -1,4 +1,4 @@
-package fc.java.part3;
+package fc.java.part3.model;
 
 public class MovieDTO {
     //상태정보, 멤버변수, 속성, 프로퍼티(*)

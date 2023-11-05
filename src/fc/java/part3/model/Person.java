@@ -1,4 +1,4 @@
-package fc.java.part3;
+package fc.java.part3.model;
 //객체(object) = 상태정보(맴버변수) + 행위정보(멤버메서드)
 //Person 객체를 생성
 public class Person {

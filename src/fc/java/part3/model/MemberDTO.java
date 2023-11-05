@@ -1,4 +1,4 @@
-package fc.java.part3;
+package fc.java.part3.model;
 
 public class MemberDTO {
     public String name;
