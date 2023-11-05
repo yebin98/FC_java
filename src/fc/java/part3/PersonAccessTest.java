@@ -10,5 +10,6 @@ public class PersonAccessTest {
         p.age = 1000;
         p.phone = "010-1111-1111";
         System.out.println(p.name + "\t" + p.age + "\t" + p.phone);
+
     }
 }

@@ -10,5 +10,6 @@ public class AccessModifier {
 //        dto.age = 1000; //에러발생(접근 불가)
         System.out.println(dto.name + "\t" + dto.phone);
         dto.play();
+
     }
 }
