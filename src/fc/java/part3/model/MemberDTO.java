@@ -11,4 +11,5 @@ public class MemberDTO {
     public void play(){//메서드는 public으로 함 -> 상호작용을 해야하기 때문에
         System.out.println("운동");
     }
+
 }
