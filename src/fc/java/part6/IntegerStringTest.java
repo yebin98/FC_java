@@ -1,4 +1,4 @@
-package fc.java.part5;
+package fc.java.part6;
 
 public class IntegerStringTest {
     public static void main(String[] args) {
